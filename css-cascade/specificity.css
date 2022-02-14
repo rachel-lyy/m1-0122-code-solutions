@@ -1,0 +1,19 @@
+* {
+  color: blue;
+}
+
+p {
+  color: orange;
+}
+
+#timbl {
+  color: red;
+}
+
+.bio {
+  color: green;
+}
+
+#verou {
+  color: black !important;
+}
