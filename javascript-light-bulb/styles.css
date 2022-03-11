@@ -1,0 +1,30 @@
+.lightbulb-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+
+.lightbulb-on {
+  background-color: #f9ea84;
+  box-shadow: #f9ea84 0 0 30px;
+}
+
+.lightbulb {
+  height: 400px;
+  width: 400px;
+  border-radius: 50%;
+}
+
+.background-on {
+  background-color: #fef9f1;
+}
+
+.background-off {
+  background-color: #333;
+}
+
+.lightbulb-off {
+  background-color: #252525;
+}
