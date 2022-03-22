@@ -58,7 +58,6 @@ var pokedex = [
 ];
 
 function renderPokemon(pokemon) {
-
   var column = document.createElement('div');
   column.setAttribute('class', 'column-third');
 
